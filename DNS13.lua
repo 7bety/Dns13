@@ -17,7 +17,7 @@ getgenv().DNS = {
         Shotgun = 20,
         Smg = 23,
         TacticalShotgun = 24,
-        Silecner = 17,
+        Silencer = 17,
         AK47 = 8,
         AR = 15,
 },
@@ -28,7 +28,7 @@ getgenv().DNS = {
         Part = "HumanoidRootPart",
         Smoothness = 0.014
 },
-        Misc = {
+    Misc = {
         Resolver = true,
         AutoPrediction = false,
         Shake = true,
