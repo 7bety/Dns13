@@ -38,4 +38,4 @@ getgenv().DNS = {
 }
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iknowhowtoskid/fed-private/main/dns13.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7bety/Dns13/main/Octel.lua"))()
